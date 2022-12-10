@@ -1,0 +1,2 @@
+# AspNetCoreWebApiOnWasi
+AspNetCoreWebApiOnWasi demo
